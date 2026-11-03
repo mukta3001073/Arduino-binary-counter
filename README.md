@@ -60,7 +60,7 @@ The Arduino source code is available in [`sketch.ino`](sketch.ino).
 
 
 - **Wokwi Simulation:** [Click Here to View Project](https://wokwi.com/projects/479596016154217473)
-- **Google Drive Simulation Video:** [Watch Simulation Video](PASTE_YOUR_GOOGLE_DRIVE_LINK)
+- **Google Drive Simulation Video:** [Watch Simulation Video](https://drive.google.com/drive/folders/1iEMCkBFtmGKqtyjPVFwXEHX9zFQDxghE)
 
 ## 📚 Registers Used
 - `DDRB` – Data Direction Register B
